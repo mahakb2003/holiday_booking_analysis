@@ -205,6 +205,5 @@ By leveraging these insights, businesses can:
 ---
 
 ## Author
-
 Mahak Bisht  
 Aspiring Data Analyst | Python | SQL | Power BI 

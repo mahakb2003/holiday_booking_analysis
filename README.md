@@ -40,10 +40,10 @@ The objective of this analysis is to:
 
 ---
 
-## Key Observations & Insights
+## Key Observations & Insight
 
 ### 1. Booking Channel Analysis
-![Booking Channel Analysis](notebooks/outputs/booking_channel_analysis.png)
+![Booking Channel Analysis](notebooks/outputs/Booking_Channel_vs_Room_Type.png)
 
 - Web channel contributes the highest share (~50%), followed by Mobile App (~40%)
 - Travel Agents contribute the least (~10%)
@@ -52,7 +52,7 @@ The objective of this analysis is to:
 ---
 
 ### 2. Room Type Analysis
-![Room Type Analysis](notebooks/outputs/room_type_analysis.png)
+![Room Type Analysis](notebooks/outputs/Booking_Channel_vs_Room_Type.png)
 
 - Standard rooms dominate bookings (~55%)
 - Deluxe rooms (~35%) indicate willingness to pay for comfort
@@ -61,7 +61,7 @@ The objective of this analysis is to:
 ---
 
 ### 3. Star Rating Analysis
-![Star Rating Analysis](notebooks/outputs/star_rating_analysis.png)
+![Star Rating Analysis](notebooks/outputs/Booking_Channel_vs_Star_Rating.png)
 
 - Majority bookings in 3–4 star hotels
 - Indicates strong preference for value-for-money options
@@ -130,7 +130,6 @@ The objective of this analysis is to:
 
 - Higher cancellations at early and last-minute bookings
 - Mid-range lead times are more stable
-
 ---
 
 ## Root Cause Analysis
@@ -208,4 +207,4 @@ By leveraging these insights, businesses can:
 ## Author
 
 Mahak Bisht  
-Aspiring Data Analyst | Python | SQL | Power BI  
+Aspiring Data Analyst | Python | SQL | Power BI 

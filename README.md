@@ -43,7 +43,7 @@ The objective of this analysis is to:
 ## Key Observations & Insight
 
 ### 1. Booking Channel Analysis
-![Booking Channel Analysis](notebooks/outputs/Booking Channel Analysis.png)
+![Booking Channel Analysis](notebooks/outputs/booking_channel_analysis.png)
 
 - Web channel contributes the highest share (~50%), followed by Mobile App (~40%)
 - Travel Agents contribute the least (~10%)
@@ -52,8 +52,7 @@ The objective of this analysis is to:
 ---
 
 ### 2. Room Type Analysis
-![Room Type Analysis](notebooks/outputs/Room type analysis.png)
-
+![Room Type Analysis](notebooks/outputs/room_type_analysis.png)
 - Standard rooms dominate bookings (~55%)
 - Deluxe rooms (~35%) indicate willingness to pay for comfort
 - Suites (~10%) represent a niche premium segment
@@ -61,7 +60,7 @@ The objective of this analysis is to:
 ---
 
 ### 3. Star Rating Analysis
-![Star Rating Analysis](notebooks/outputs/Star rating Analysis.png)
+![Star Rating Analysis](notebooks/outputs/star_rating_analysis.png)
 
 - Majority bookings in 3–4 star hotels
 - Indicates strong preference for value-for-money options
@@ -70,7 +69,7 @@ The objective of this analysis is to:
 ---
 
 ### 4. Monthly Booking Trend
-![Monthly Booking Trend](notebooks/outputs/Monthly_Booking_Trend.png)
+![Average Stay by Month](notebooks/outputs/average_stay_by_month.png)
 
 - Peak observed in April indicating strong seasonal demand
 - Stable trends across other months
@@ -94,7 +93,7 @@ The objective of this analysis is to:
 ---
 
 ### 7. Booking Channel vs Room Type
-![Booking Channel vs Room Type](notebooks/outputs/Booking_Channel vs Room_Type.png)
+![Booking Channel vs Room Type](notebooks/outputs/Booking_Channel_vs_Room_Type.png)
 
 - Web dominates across all room types
 - Travel agents contribute least
@@ -102,7 +101,7 @@ The objective of this analysis is to:
 ---
 
 ### 8. Booking Channel vs Star Rating
-![Booking Channel vs Star Rating](notebooks/outputs/Booking_Channel vs Star_Rating.png)
+![Booking Channel vs Star Rating](notebooks/outputs/Booking_Channel_vs_Star_Rating.png)
 
 - Mid-range hotels dominate across all channels
 - Strong demand for affordable luxury
@@ -134,7 +133,7 @@ The objective of this analysis is to:
 ---
 
 ### 12. Average Stay by Month
-![Average Stay by Month](notebooks/outputs/Average Stay by Month.png)
+![Average Stay by Month](notebooks/outputs/average_stay_by_month.png)
 
 - Sharp drop in March – Average stay duration significantly decreases, indicating shorter bookings or possible seasonal dip
 - Stable trend afterward – From April to December, the average stay remains relatively consistent with minor fluctuations, showing steady customer behavior
